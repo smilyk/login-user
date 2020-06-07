@@ -2,10 +2,9 @@
 Пример проекта для создания пользователя, регистрации, проверки авторизации, аутентификации и доступа в зависимости от роли
 + SWAGGER + Tests
 3 приложения:
-
-    - mobile-app-ws-rest-assured-test - тестирование контроллера
+    - users-app-ws-rest-assured-test - тестирование контроллера
     - verification-service - сервис для отправки писем при регистрации и смене пароля
-    - users-service - основной сервис, в котором прописана вся логика
+    - login-user - основной сервис, в котором прописана вся логика
     
 README файлы:
 
@@ -24,6 +23,4 @@ README файлы:
     - reset-password.png
         
 
-# login-user-example
-# users-app-ws-rest-assured-test
-# login-user
+
